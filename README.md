@@ -1,2 +1,1 @@
 "# Resume" 
-"# resume.github.io" 
